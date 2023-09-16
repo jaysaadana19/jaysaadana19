@@ -3,7 +3,7 @@
 
 ### Hi there, I'm Jay Saadana 👋
 
-I'm a passionate DevRel from India. Welcome to my GitHub profile!
+I'm a passionate Quine Ambassador from India. Welcome to my GitHub profile!
 
 <!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&count_private=true)
