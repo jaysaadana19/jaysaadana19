@@ -5,8 +5,6 @@
 
 I'm a passionate Quine Ambassador from India. Welcome to my GitHub profile!
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&count_private=true)
 
 ### 🔧 Technologies & Tools
 
@@ -15,6 +13,8 @@ I'm a passionate Quine Ambassador from India. Welcome to my GitHub profile!
 <!-- Recent Activity -->
 ### 🚀 Recent Activity
 [![jaysaadana19's GitHub | Stats](https://stats.quine.sh/jaysaadana19/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=jaysaadana19)
+
+
 
 
 ### 📫 Connect with Me
