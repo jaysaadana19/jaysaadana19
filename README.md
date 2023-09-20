@@ -13,9 +13,7 @@ I'm a passionate Quine Ambassador from India. Welcome to my GitHub profile!
 
 <!-- Recent Activity -->
 ### 🚀 Recent Activity
-[![jaysaadana19's GitHub | Stats](https://stats.quine.sh/jaysaadana19/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=jaysaadana19)
-
-[![jaysaadana19's GitHub | Dependencies](https://stats.quine.sh/jaysaadana19/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=jaysaadana19)
+[![jaysaadana19's GitHub | Stats](https://stats.quine.sh/jaysaadana19/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=jaysaadana19)                                  [![jaysaadana19's GitHub | Dependencies](https://stats.quine.sh/jaysaadana19/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=jaysaadana19)
 
 [![jaysaadana19's GitHub | Topics Over Time](https://stats.quine.sh/jaysaadana19/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=jaysaadana19)
 
