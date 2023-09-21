@@ -28,8 +28,6 @@ I'm a passionate Quine India Lead Ambassador from India. Welcome to my GitHub pr
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/jaysaadana)
 
-![Discord](https://img.shields.io/discord/709823791097708597)
-
 
 
 
