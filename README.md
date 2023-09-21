@@ -3,7 +3,7 @@
 
 ### Hi there, I'm Jay Saadana 👋
 
-I'm a passionate Quine Ambassador from India. Welcome to my GitHub profile!
+I'm a passionate Quine India Lead Ambassador from India. Welcome to my GitHub profile!
 
 
 ### 🔧 Technologies & Tools
