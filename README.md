@@ -22,10 +22,12 @@ I'm a passionate Quine India Lead Ambassador from India. Welcome to my GitHub pr
 
 
 
-### 📫 Connect with Me
+### Connect with me:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/jaysaadana)
-- Twitter: [Your Twitter Profile](https://twitter.com/jaysaadana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaysaadana/)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-username?label=Follow&style=for-the-badge&logo=twitter)](https://twitter.com/jaysaadana)
+
 
 <!---
 jaysaadana19/jaysaadana19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
