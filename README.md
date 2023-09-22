@@ -26,7 +26,7 @@ I'm a passionate Quine India Lead Ambassador from India. Welcome to my GitHub pr
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaysaadana/)
 
-[![Follow me on Twitter](https://img.shields.io/twitter/follow/jaysaadana?style=social)](https://twitter.com/jaysaadana)
+[![Twitter](https://img.shields.io/twitter/follow/jaysaadana?style=social)](https://twitter.com/jaysaadana)
 
 
 
